@@ -8,5 +8,3 @@ See `complete` branch for an example.
 
 
 > I can tolerate my failures, but I cannot live with my “what-ifs".
->   -Wajahat Ali
-
